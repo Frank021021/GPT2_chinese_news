@@ -1,6 +1,6 @@
 # GPT-2 Project
 
-This is the repository for the Entrance Exam of the AI Design Course 1H 2025.
+This is the repository for the Entrance Exam of the AI Design Course 2H 2025.
 
 ## Student Info
 - [Zhang Wenxuan/张文轩](25213040254@m.fudan.edu.cn), Student ID: 25213040254
